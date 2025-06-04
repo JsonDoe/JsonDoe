@@ -51,5 +51,4 @@ I’m a 3D Pipeline Technical Director in training with a strong focus on automa
 
 - 📩 Email: julienmiternique.pro@gmail.com  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/julien-miternique/)  
-- 🗃️ [My GitHub Projects](https://github.com/JsonDoe)  
 - 🌍 Based in Lille, France – European passport  
