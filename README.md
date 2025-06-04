@@ -14,28 +14,11 @@ I’m a 3D Pipeline Technical Director in training with a strong focus on automa
 ## 🧰 Core Skills
 
 - **Pipeline Development** (USD, ShotGrid, Ftrack)
-- **Tool Development** for Houdini, Maya, and Blender
+- **Tool Development** for Houdini, Maya and Blender
 - **UI/UX with PySide2/PySide6**
-- **Python (3.x/2.x)** & C++ scripting
-- **Rigging & Automation** (AutoRig systems)
+- **Python (3.x/2.x)** & C++
+- **Rigging & Automation**
 - Basic experience with **Unity** and **Unreal Engine**
-
----
-
-## 🧪 Internships & Production
-
-- **Pipeline Intern @ Nwave** (2024 & 2023)  
-  - USD tools, Houdini pre-lighting, Ftrack integration, and layout pipeline testing  
-  - ShotGrid integration & USD pipe testbed  
-  [nwave.com](https://www.nwave.com/)
-
-- **Master’s Film: Choupi & Zinou** (2024–2025)  
-  - Pipeline dev, USD tooling, shorgrid tool dev, rigging & production tech  
-  - Currently in production – unreleased title
-
-- **Bachelor’s Film: Kafarnaüm** (2022–2023)  
-  - Co-led technical direction and pipeline setup  
-  - Festival success with 20+ official selections
 
 ---
 
