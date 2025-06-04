@@ -16,7 +16,8 @@ I’m a 3D Pipeline Technical Director in training with a strong focus on automa
 - **Pipeline Development** (USD, ShotGrid, Ftrack)
 - **Tool Development** for Houdini, Maya and Blender
 - **UI/UX with PySide2/PySide6**
-- **Python (3.x/2.x)** & C++
+- **Python (3.x/2.x)** & **C++**
+- **Vex** & **Mel**
 - **Rigging & Automation**
 - Basic experience with **Unity** and **Unreal Engine**
 
