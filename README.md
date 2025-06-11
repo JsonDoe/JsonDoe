@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Julien Miternique
 
-🎓 **Junior Pipeline TD** · [![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)](https://www.python.org/)
+**Junior Pipeline TD** · [![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)](https://www.python.org/)
 [![Maya](https://img.shields.io/badge/Maya-2025-blue?logo=autodesk)](https://www.autodesk.com/products/maya/)
 [![Houdini](https://img.shields.io/badge/Houdini-19.5-orange?logo=sidefx)](https://www.sidefx.com/)
 [![ShotGrid](https://img.shields.io/badge/ShotGrid-Toolkit-green)](https://www.autodesk.com/products/shotgrid/overview)
@@ -25,14 +25,14 @@ I’m a 3D Pipeline Technical Director in training with a strong focus on automa
 
 ## 🎯 Goals
 
-- 🔍 Looking for **Pipeline TD Junior Positions** (from **August 2025**)  
-- 🌍 Open to **opportunities abroad**, including relocation  
-- 🤝 Also open to **freelance** or **remote** work in CG tech
+- Looking for **Pipeline TD Junior Positions** (from **August 2025**)  
+- Open to **opportunities abroad**, including relocation  
+- Also open to **freelance** or **remote** work in CG tech
 
 ---
 
 ## 📫 Contact Me
 
-- 📩 Email: julienmiternique.pro@gmail.com  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/julien-miternique/)  
-- 🌍 Based in Lille, France – European passport  
+- Email: julienmiternique.pro@gmail.com  
+- [LinkedIn](https://www.linkedin.com/in/julien-miternique/)  
+- Based in Lille, France – European passport  
