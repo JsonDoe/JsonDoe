@@ -34,5 +34,5 @@ I’m a 3D Pipeline Technical Director in training with a strong focus on automa
 ## 📫 Contact Me
 
 - Email: julienmiternique.pro@gmail.com  
-- LinkedIn [LinkedIn](https://www.linkedin.com/in/julien-miternique/)  
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/julien-miternique/)  
 - Based in Lille, France – European passport  
