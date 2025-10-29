@@ -17,7 +17,7 @@ Currently part of the **pipeline dev team at nWave Studios**
 ## 🧰 Core Skills
 
 - **Pipeline Development** – USD, ShotGrid, Ftrack, production-scale workflows
-- **Tool & HDA Development** – Houdini Solaris (USD LOPs), Maya, Blender
+- **Tool & HDA Development** – Houdini, Maya, Blender and more
 - **USD API** – Stage management, layering, variant systems, point instancers
 - **Python (3.x / 2.x)** & **C++**
 - **UI/UX** – PySide2 / PySide6 interfaces for production tools
