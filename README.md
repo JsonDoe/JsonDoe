@@ -30,5 +30,5 @@ Currently part of the **pipeline dev team at nWave Studios**
 
 - Email: [julienmiternique.pro@gmail.com](mailto:julienmiternique.pro@gmail.com)
 - LinkedIn: [linkedin.com/in/julien-miternique](https://www.linkedin.com/in/julien-miternique/)
-- Based in **Lille, France** – close to **Paris** and **Brussels**
+- Based in **Lille, France**, close to **Paris** and **Brussels**
   Open to **remote work** and **international opportunities**
